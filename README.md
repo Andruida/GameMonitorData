@@ -1,1 +1,1 @@
-# GameMonitorData
+# Játékfigyelő adat vizualizációk
